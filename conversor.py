@@ -69,4 +69,4 @@ def send_email_with_attachment(email_to, email_subject, attachment_path):
     server.quit()
 
 # Call the function
-convert_jpg_to_pdf('C:/Users/mathe/Downloads/The God of High School/capitulo #5 - The God of High School', 'matheus.rocap_PWWjXe@kindle.com')
+convert_jpg_to_pdf('C:/Users/mathe/Downloads/The God of High School/capitulo #5 - The God of High School', '')
